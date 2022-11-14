@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/list"
+        android:checked="true"
+        android:icon="@drawable/ic_baseline_dehaze_24"
+        android:title="Список"/>
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_baseline_live_help_24"
+        android:title="Про" />
+</menu>
